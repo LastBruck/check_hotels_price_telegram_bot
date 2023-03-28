@@ -1,0 +1,6 @@
+.env
+/.idea
+.idea/
+db_history.db
+debug.log
+src/__pycache__/
